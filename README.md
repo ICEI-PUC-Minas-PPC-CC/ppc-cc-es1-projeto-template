@@ -32,6 +32,7 @@ Foco na fase de Descoberta (Discovery) para a elaboração da versão inicial do
 - [`/docs/01_descoberta/01_visao_do_produto.md`](./docs/01_descoberta/01_visao_do_produto.md)
 - [`/docs/01_descoberta/02_personas.md`](./docs/01_descoberta/02_personas.md)
 - [`/docs/01_descoberta/03_product_backlog.md`](./docs/01_descoberta/03_product_backlog.md)
+- [`/docs/01_descoberta/04_product_backlog_refinado.md`](./docs/01_descoberta/04_product_backlog_refinado.md)
 - [`/docs/01_descoberta/99_video_etapa_1.md`](./docs/01_descoberta/99_video_etapa_1.md)
 
 ## 📄 Licença
