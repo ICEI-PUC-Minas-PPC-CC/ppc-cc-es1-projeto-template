@@ -1,6 +1,6 @@
 ---
 name: 🏛️ Funcionalidade
-about: Planeje uma grande entrega ou funcionalidade macro do sistema.
+about: Registra uma funcionalidade do produto de software.
 title: "F#: [Nome da Funcionalidade]"
 labels: ["feat"]
 assignees: ""

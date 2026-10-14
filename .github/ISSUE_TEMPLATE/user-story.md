@@ -1,14 +1,14 @@
 ---
 name: 🚀 História de Usuário
-about: Unidade de trabalho que será puxada para a Sprint (Filha de uma Feature).
-title: "H-F#.#: [Título Curto da História no Formaro ARO]"
-labels: ["user-story"]
+about: Unidade de trabalho que será alocada para a Sprint.
+title: "[Título curto da história do usuário no Formaro ARO]"
+labels: ["story"]
 assignees: ""
 ---
 
 ## 📝 Descrição da História
 
-**Como** [tipo de usuário]  
+**Como** [persona]  
 **Eu quero** [realizar uma ação no sistema]  
 **Para que** [eu obtenha um valor/benefício]
 
@@ -18,16 +18,19 @@ assignees: ""
 
 > Defina o comportamento esperado para validar o desenvolvimento da história.
 
-- [ ] **Cenário 1:** Login com sucesso.
-  - **Dado** que estou na tela de login;
-  - **Quando** preencho os dados corretamente e clico em entrar;
-  - **Então** sou redirecionado para a Dashboard principal.
-- [ ] **Cenário 2:** Validar regras visuais de acordo com o design.
+- [ ] **Cenário 1:** [cenário de sucesso].
+  - **Dado** [contexto inicial];
+  - **Quando** [ação do usuário ou o evento do sistema];
+  - **Então** [resultado esperado].
+
+- [ ] **Cenário 2:** [cenário de insucesso].
+  - **Dado** [contexto inicial];
+  - **Quando** [ação do usuário ou o evento do sistema];
+  - **Então** [resultado esperado].
 
 ---
 
-## 🛠️ Critérios de Pronto (Definition of Done)
+## 🛠️ Critérios de Pronto (Definition of Ready)
 
-- [ ] Testes unitários cobrindo o fluxo principal.
-- [ ] Revisado por pelo menos 1 desenvolvedor no Pull Request.
-- [ ] Alterações validadas em ambiente de homologação/staging.
+- [ ] Representa uma história de usuário conforme os critérios INVEST.
+- [ ] Coberta por pelo menos dois critérios de aceitação (sucesso/insucesso).
