@@ -1,7 +1,7 @@
 ---
 name: 🚀 História de Usuário
 about: Unidade de trabalho que será puxada para a Sprint (Filha de uma Feature).
-title: "Story: [Título Curto da História]"
+title: "H-F#.#: [Título Curto da História no Formaro ARO]"
 labels: ["user-story"]
 assignees: ""
 ---

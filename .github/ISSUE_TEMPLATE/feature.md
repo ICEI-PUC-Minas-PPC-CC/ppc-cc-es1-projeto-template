@@ -1,8 +1,8 @@
 ---
 name: 🏛️ Funcionalidade
 about: Planeje uma grande entrega ou funcionalidade macro do sistema.
-title: "Feature: [Nome da Funcionalidade]"
-labels: ["feature"]
+title: "F#: [Nome da Funcionalidade]"
+labels: ["feat"]
 assignees: ""
 ---
 
